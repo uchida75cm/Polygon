@@ -1,0 +1,4 @@
+#External Dependencies
+#Wed Dec 22 04:43:41 JST 2010
+/Users/fujitakensuke/Desktop/Polygon/project/boot/scala-2.8.0/lib/scala-library.jar=src/main/scala/Main.scala
+/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar=src/main/scala/Main.scala
